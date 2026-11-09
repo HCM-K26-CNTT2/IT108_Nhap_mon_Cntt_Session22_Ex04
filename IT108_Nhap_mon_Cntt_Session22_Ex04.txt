@@ -1,0 +1,25 @@
+﻿Bài 4 : Đánh giá chất lượng giải pháp trên Stack Overflow 
+3. Yêu cầu đầu ra
+* Lập bảng so sánh Ưu/Nhược điểm của 2 giải pháp này dựa trên các tiêu chí: Độ tin cậy lịch sử, Tính cập nhật với hệ điều hành mới, và rủi ro gây hỏng thiết lập hiện tại.
+
+
+Tiêu chí so sánh
+	Giải pháp 1 (Accepted Checkmark ✓, 2014, 500 upvotes)
+	Giải pháp 2 (Không tích xanh, 2023, 50 upvotes, comment: "This works for Windows 11")
+	Độ tin cậy lịch sử
+	Nhận được dấu tích xanh do người đặt câu hỏi chọn và có tới 500 upvotes qua nhiều năm cho thấy cách sửa rất tốt
+	Lượng upvote không quá cao chỉ có 50 upvotes, nhưng nhận được phản hồi của người đã dùng cách này
+	Tính cập nhật với hệ điều hành mới
+	Đăng từ năm 2014, có thể lúc đó là HĐH cũ nên sẽ khó tương thích với môi trường hiện đại như bậy giờ
+	Đăng năm 2023 và có bình luận cách này phù hợp với hệ điều hành mới là Windows 11
+	Rủi ro gây hỏng thiết lập hiện tại
+	Cao: do đặng từ rất lâu nếu tải những phần mềm nào đó có thể bị dính mã độc vì toàn là những phiên bản cũ không thể sử dụng lại được nữa 
+	Thấp: được xác nhận có thể  trên môi trường Windows 11 hiện đại, giảm thiểu rủi ro bị dính mã độc.
+	
+
+* Chốt lựa chọn của bạn và lập luận tại sao "Tích xanh" đôi khi không còn là ưu tiên số 1.
+* Chốt lựa chọn: Giải pháp 2 (năm 2023)
+
+
+* Tại sao "Tích xanh" đôi khi không còn là ưu tiên số 1?
+* Vì: chỉ thể hiện giải pháp đó đã có thể giải quyết được vấn đề của người hỏi tại thời điểm họ đăng bài vào năm 2014. Nhưng, các câu trả lời mới hơn vào năm 2023 dù nó ít upvotes hơn nhưng nó phù hợp với môi trường hiện đại như bây giờ vì có thể dùng trên hệ điều hành hiện tại (Windows 11) nên sẽ mang lại tỷ lệ thành công cao hơn và an toàn hơn cho máy tính.
